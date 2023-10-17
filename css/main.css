@@ -3531,9 +3531,9 @@ input.num-product::-webkit-inner-spin-button {
 }
 
 .size-1105 {
-  height: calc(7vh - 10px);
+  height: calc(6vh - 10px);
   width: cover;
-  padding: 8px;
+  padding: 4px;
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
@@ -4640,7 +4640,7 @@ input.num-product::-webkit-inner-spin-button {
   font-size: 1em;
   min-width: auto;
   overflow: hidden;
-  width: 100%;
+  width: 70%;
   height: auto;
   justify-content: space-between;
   text-align: left;

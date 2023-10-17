@@ -3008,7 +3008,7 @@ input.num-product::-webkit-inner-spin-button {
 
 .stext-102 {
   font-family: Poppins-Regular;
-  font-size: 18px;
+  font-size: 16px;
   line-height: 1.2;
 }
 
@@ -3108,7 +3108,18 @@ input.num-product::-webkit-inner-spin-button {
   font-family: Poppins-Regular;
   font-size: 15px;
   line-height: 1.2;
+}  
+
+.stext-1062 {
+  font-family: Poppins-Regular;
+  font-size: 15px;
+  line-height: 1.2;
+  border-color: #717fe0;
+  background-color: #717fe0;
+  color: #fff;
 }
+
+
 
 .stext-1061 {
   font-family: Poppins-Regular;
@@ -3226,7 +3237,7 @@ input.num-product::-webkit-inner-spin-button {
 
 .mmtext-103 {
   font-family: Poppins-Bold;
-  font-size: 32px;
+  font-size: 28px;
   line-height: 1.333333;
   color: #000000;
   
@@ -3234,7 +3245,7 @@ input.num-product::-webkit-inner-spin-button {
 
 .mmmtext-103 {
   font-family: Poppins-Regular;
-  font-size: 22px;
+  font-size: 19px;
   line-height: 1.333333;
   color: #3d3d3d;
 
@@ -3258,7 +3269,7 @@ input.num-product::-webkit-inner-spin-button {
 
 .mmmmmtext-103 {
   font-family: Poppins-Bold;
-  font-size: 40px;
+  font-size: 30px;
   line-height: 1.333333;
   color: #c00000;
   

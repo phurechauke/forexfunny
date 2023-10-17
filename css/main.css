@@ -736,7 +736,7 @@ Input, textarea : 14px/1.6 '', Arial, sans-serif;
   display: flex;
   align-items: center;
   height: 55px;
-  background-color: #4d65ff;
+  background-color: #6479ff;
   padding-left: 15px;
   padding-right: 15px;
   display: none;
@@ -3540,7 +3540,7 @@ input.num-product::-webkit-inner-spin-button {
 }
 
 .size-1106 {
-  height: calc(7vh - 10px);
+  height: calc(6vh - 10px);
   width: cover;
   padding: 4px;
   background-size: cover;

@@ -1402,7 +1402,7 @@ Input, textarea : 14px/1.6 '', Arial, sans-serif;
 
 @media (max-width: 991px) {
   .item-slick10 {
-    height: calc(100vh - 250px) !important;
+    height: calc(100vh - 330px) !important;
   }
 }
 
@@ -3115,7 +3115,7 @@ input.num-product::-webkit-inner-spin-button {
   font-size: 15px;
   line-height: 1.2;
   border-color: #717fe0;
-  background-color: #717fe0;
+  background-color: #8898fc;
   color: #fff;
 }
 
@@ -3289,8 +3289,8 @@ input.num-product::-webkit-inner-spin-button {
 
 .mtext-106 {
   font-family: Poppins-SemiBold;
-  font-size: 18px;
-  line-height: 1.388888;
+  font-size: 16px;
+  line-height: 1;
 }
 
 

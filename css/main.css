@@ -3366,6 +3366,10 @@ input.num-product::-webkit-inner-spin-button {
   font-family: Poppins-Regular;
   font-size: 28px;
   line-height: 1.2857;
+  background-color: #00000086;
+  border-radius: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
 }
 
 .mjb {
@@ -4662,6 +4666,9 @@ input.num-product::-webkit-inner-spin-button {
   justify-content: space-between;
   text-align: left;
   line-height: 2;
+  background-color: #00000091;
+  border-radius: 10px;
+  
   
 
 

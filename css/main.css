@@ -3558,6 +3558,15 @@ input.num-product::-webkit-inner-spin-button {
   background-position: center center;
 }
 
+.size-1107 {
+  height: calc(9vh - 10px);
+  width: cover;
+  padding: 4px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+
 .size-106 {
   width: 88px;
   height: 100%;
@@ -3812,6 +3821,11 @@ input.num-product::-webkit-inner-spin-button {
 
 .bor1 {
   border: 1px solid #000000;
+  border-radius: 20px;
+}
+
+.bor010 {
+  border: 1px solid #6e6e6e;
   border-radius: 20px;
 }
 
